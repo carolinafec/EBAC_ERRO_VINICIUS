@@ -1,3 +1,4 @@
+import '@testing-library/jest-dom'
 import Header from '..'
 import { renderizaComProvider } from '../../../utils/tests'
 import { screen } from '@testing-library/react'
